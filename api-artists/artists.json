@@ -1,46 +1,130 @@
 {
-    "artists": [
-      {
-        "id": 1,
-        "name": "Foo Fighters",
-        "genre": "Rock",
-        "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
-      },
-      {
-        "id": 2,
-        "name": "Michael Jackson",
-        "genre": "Pop",
-        "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
-      },
-      {
-        "id": 3,
-        "name": "Emicida",
-        "genre": "Hip Hop",
-        "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
-      },
-      {
-        "id": 4,
-        "name": "Chitãozinho e Xororó",
-        "genre": "Sertanejo",
-        "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
-      },
-      {
-        "id": 5,
-        "name": "Mc Coringa",
-        "genre": "Funk",
-        "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56"
-      },
-      {
-        "id": 6,
-        "name": "Arlindo Cruz",
-        "genre": "Samba",
-        "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
-      },
-      {
-        "id": 7,
-        "name": "Caetano Veloso",
-        "genre": "MPB",
-        "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
-      }
-    ]
-  }
+  "artists": [
+    {
+      "id": 1,
+      "name": "Foo Fighters",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+    },
+    {
+      "id": 2,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+    },
+    {
+      "id": 3,
+      "name": "Emicida",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+    },
+    {
+      "id": 4,
+      "name": "Chitãozinho e Xororó",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+    },
+    {
+      "id": 5,
+      "name": "Mc Coringa",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56"
+    },
+    {
+      "id": 6,
+      "name": "Arlindo Cruz",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+    },
+    {
+      "id": 7,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+    },
+    {
+      "id": 8,
+      "name": "Metallica",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744a52c5ab3af6d9a5ae82c363"
+    },
+    {
+      "id": 9,
+      "name": "Lady Gaga",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf"
+    },
+    {
+      "id": 10,
+      "name": "Racionais MC's",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051743e37f5f8f0a4ce2f37f44f52"
+    },
+    {
+      "id": 11,
+      "name": "Maiara e Maraisa",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e87a146687e73d82920c4785"
+    },
+    {
+      "id": 12,
+      "name": "MC Kevin o Chris",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744558a6cc5be6cdf8075bc466"
+    },
+    {
+      "id": 13,
+      "name": "Zeca Pagodinho",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174870f0b44185efe44b8df3a11"
+    },
+    {
+      "id": 14,
+      "name": "Maria Bethânia",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174508d8919e2f519997891d0ae"
+    },
+    {
+      "id": 15,
+      "name": "Red Hot Chili Peppers",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab676161000051747d37466a69b73f29c4401481"
+    },
+    {
+      "id": 16,
+      "name": "Taylor Swift",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174928dc9bc47340f3cc89c5bc2"
+    },
+    {
+      "id": 17,
+      "name": "Mano Brown",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051746b75442e44b8b9dace225425"
+    },
+    {
+      "id": 18,
+      "name": "Jorge e Mateus",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174f8167cfa38fea2d17879c949"
+    },
+    {
+      "id": 19,
+      "name": "MC Kevinho",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174f0c7059e13e249d80740c8c5"
+    },
+    {
+      "id": 20,
+      "name": "Beth Carvalho",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174c6907cbaf5fa8e7507ce2854"
+    },
+    {
+      "id": 21,
+      "name": "Gal Costa",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174fdad7da122db74acea848b89"
+    }
+  ]
+}
